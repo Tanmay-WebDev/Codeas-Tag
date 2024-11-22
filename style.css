@@ -1,0 +1,35 @@
+.pp{
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+}
+
+.p{
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+}
+
+.h1{
+    background-color: aquamarine;
+    border-radius: 30px;
+    width: 300px;
+
+}
+
+.f{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hh{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    width: 300px;
+}
+
